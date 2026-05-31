@@ -27,7 +27,7 @@ Note importante :
     FEP, temps et énergie.
 
 Création :
-    Hell@Wraight (HellAtWraight) - AI Guardian Pro @ 2025
+    Hell@Wraith (HellAtWraith) - AI Guardian Pro @ 2025
 
 Copyright :
     AI Guardian Pro @ 2025
@@ -50,8 +50,8 @@ from tkinter import filedialog, messagebox, scrolledtext
 
 APP_NAME = "Lucie Print Guardian"
 APP_VERSION = "1.1.0-fr"
-APP_AUTHOR = "Hell@Wraight (HellAtWraight) - AI Guardian Pro @ 2025"
-APP_COPYRIGHT = "Copyright (c) 2025 Hell@Wraight - AI Guardian Pro"
+APP_AUTHOR = "Hell@Wraith - AI Guardian Pro @ 2025"
+APP_COPYRIGHT = "Copyright (c) 2026 Hell@Wraith - AI Guardian Pro"
 CONTACT = "contact@aiguardianpro.com - À l'attention de Hella"
 
 SUPPORTED_EXTENSIONS = {".pm4n", ".pm5", ".pw0", ".pws", ".photon", ".ctb"}
