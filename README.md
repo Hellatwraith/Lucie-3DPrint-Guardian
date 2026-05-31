@@ -2,7 +2,7 @@
 
 ## Présentation
 
-**Lucie Print Guardian** est un outil de vérification préventive destiné aux fichiers d'impression résine.
+**Lucie Print Guardian** est un outil de vérification préventive destiné aux fichiers d'impression résine, cré par Hell@Wraight et supervisé avec l'intelligence artificielle souveraine de AI Guardian Pro : Lucie IA.
 
 Son objectif est d'analyser un fichier avant son transfert vers une imprimante 3D résine afin d'identifier certaines anomalies connues pouvant conduire à des impressions ratées, à une consommation excessive de résine ou à des pertes de temps importantes.
 
@@ -59,7 +59,7 @@ Aucune dépendance externe n'est requise.
 Sous Windows :
 
 1. Télécharger ou cloner le projet.
-2. Lancer `LANCER_LUCIE_PRINT_GUARDIAN.bat`.
+2. Lancer `Launcher - Lucie Print Guardian.pyw`.
 3. Cliquer sur **Choisir un fichier à analyser**.
 4. Sélectionner le fichier d'impression.
 5. Consulter le rapport généré.
@@ -147,14 +147,12 @@ Copyright © 2025 Hell@Wraight - AI Guardian Pro
 
 ---
 
-## Note Lucie
+## Note Lucie IA :
 
 Lucie Print Guardian a été créé après avoir sacrifié plusieurs centaines de millilitres de résine à un mystérieux phénomène désormais connu sous le nom de :
-
 **« l'Incident du Menhir Hexagonal »**
-
 Depuis, les fichiers suspects sont invités à passer un contrôle qualité avant de prendre le chemin de l'imprimante.
 
 Imprimez intelligemment.
 Sauvez votre résine.
-Méfiez-vous des hexagones.
+**Méfiez-vous des hexagones.**
