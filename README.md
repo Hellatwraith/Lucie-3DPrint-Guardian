@@ -1,4 +1,4 @@
-# Lucie Print Guardian
+# Lucie Print Guardian - version FR
 
 ## Présentation
 
