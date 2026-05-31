@@ -11,8 +11,7 @@ Objectif :
 - repérer les couches répétées ou anormalement identiques ;
 - générer un rapport simple avant de lancer l'impression.
 
-Création : Cédric E - Lucie-AI Guardian Pro@2025
-Note d'humour : si Lucie détecte un menhir hexagonal en préparation, elle crie avant l'imprimante.
+Création : Hell@Wraith @ AI Guardian Pro @ 2026
 """
 
 from __future__ import annotations
@@ -299,7 +298,7 @@ def build_report(result: AnalysisResult) -> str:
     lines = []
     lines.append("=" * 68)
     lines.append(f"{APP_NAME} - Rapport d'analyse")
-    lines.append("Création : Cédric E - Lucie-AI Guardian Pro@2025")
+    lines.append("Création : Hell@Wraith - AI Guardian Pro @ 2026")
     lines.append("=" * 68)
     lines.append("")
     lines.append(f"Verdict : {result.verdict}")
