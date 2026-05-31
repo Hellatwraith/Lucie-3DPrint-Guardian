@@ -2,7 +2,7 @@
 
 ## Présentation
 
-**Lucie Print Guardian** est un outil de vérification préventive destiné aux fichiers d'impression résine, cré par Hell@Wraight et supervisé avec l'intelligence artificielle souveraine de AI Guardian Pro : Lucie IA.
+**Lucie Print Guardian** est un outil de vérification préventive destiné aux fichiers d'impression résine, cré par Hell@Wraith et supervisé avec l'intelligence artificielle souveraine de AI Guardian Pro : Lucie IA.
 
 Son objectif est d'analyser un fichier avant son transfert vers une imprimante 3D résine afin d'identifier certaines anomalies connues pouvant conduire à des impressions ratées, à une consommation excessive de résine ou à des pertes de temps importantes.
 
@@ -74,18 +74,6 @@ Sous Windows :
 
 ---
 
-## Utilisation en ligne de commande
-
-Analyse simple :
-
-```bash
-python lucie_print_guardian.py mon_fichier.pm4n
-```
-
-Le mode ligne de commande est principalement destiné aux utilisateurs avancés souhaitant intégrer l'outil dans leurs propres procédures de contrôle.
-
----
-
 ## Limitations
 
 Lucie Print Guardian n'est pas un slicer.
@@ -104,12 +92,10 @@ Même lorsqu'un fichier est déclaré sain, une vérification visuelle reste for
 
 ## Non-affiliation
 
-Lucie Print Guardian est un projet indépendant développé par Hell@Wraight dans le cadre des activités d'AI Guardian Pro.
+Lucie Print Guardian est un projet indépendant développé par Hell@Wraith dans le cadre des activités d'AI Guardian Pro.
 
 Ce projet n'est ni affilié, ni approuvé, ni sponsorisé par Anycubic ou par toute autre société mentionnée dans la documentation.
-
 Les marques, logiciels, formats ou noms commerciaux cités sont utilisés uniquement à des fins d'identification technique et demeurent la propriété de leurs détenteurs respectifs.
-
 Anycubic et ses représentants ne pourront être tenus responsables des résultats obtenus avec ce logiciel ou de son utilisation.
 
 ---
@@ -117,33 +103,18 @@ Anycubic et ses représentants ne pourront être tenus responsables des résulta
 ## Contributions
 
 Les signalements de bugs, suggestions d'amélioration et retours d'expérience sont les bienvenus.
-
 Si vous découvrez un nouveau type de corruption ou un comportement inhabituel sur un format supporté, n'hésitez pas à ouvrir une Issue GitHub.
-
 Chaque fichier problématique analysé permet d'améliorer les capacités de détection du projet.
-
----
-
-## Structure du projet
-
-```text
-lucie-print-guardian/
-├── lucie_print_guardian.py
-├── LANCER_LUCIE_PRINT_GUARDIAN.bat
-├── README.md
-├── LICENSE
-└── .gitignore
-```
 
 ---
 
 ## Auteur
 
-**Hell@Wraight (HellAtWraight)**
+**Hell@Wraith (HellAtWraith)**
 
 Projet développé dans le cadre d'AI Guardian Pro.
 
-Copyright © 2025 Hell@Wraight - AI Guardian Pro
+Copyright © 2025 Hell@Wraith - AI Guardian Pro
 
 ---
 
